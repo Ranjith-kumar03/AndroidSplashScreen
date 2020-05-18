@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:textColorHint">@color/BackgroundtWhiteColo</item>
+        <item name="colorControlNormal">@color/BackgroundtWhiteColo</item>
+        <item name="colorControlActivated">#ff0000</item>
+        <item name="colorControlHighlight">@color/BackgroundtWhiteColo</item>
+        
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+
+
+</resources>
